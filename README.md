@@ -1,2 +1,1 @@
-# T-rex
-juego del t-rex
+# Juegos-compatibles-con-dispositivos
